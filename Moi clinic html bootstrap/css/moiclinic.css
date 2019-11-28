@@ -11,6 +11,13 @@
     background-size: cover;
 }
 
+.serviceOfferd {
+    background-image: url("../img/img_service.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #mainNav {
     background-color: transparent !important;
 }
@@ -20,6 +27,80 @@
     font-size: 1.2rem !important;
 }
 
-@media  {
-    
+#aboutImg {
+    width: auto;
+    height: 50%;
+}
+
+.backgroundColor1 {
+    background-color: #e9ecef;
+}
+.sectionMargine {
+    margin-top: 15px;
+}
+
+.aboutImg {
+
+}
+
+.defaultImg {
+    max-height: 400px;
+}
+
+.cardCustom {
+    border: 0px;
+}
+
+.imgService {
+    height: 80px;
+    width: auto;
+    margin-top: 40px;
+}
+
+#family {
+    background-color: #f69095;
+    text-align: center;
+}
+#skypeTherapy {
+    border: #f69095 solid;
+    margin: 23px;
+    text-align: -webkit-center;
+}
+#skypeTherapyImg {
+    text-align: -webkit-center;
+    width: 84px;
+    height: 83px;
+    background-color: #f69095;
+}
+.serviceImgSizing {
+    height: 54px;
+    width: 54px;
+}
+
+.serviceCardBody {
+    margin: inherit;
+    font-weight: 400;
+}
+
+#adult {
+    background-color: #ccbaca;
+    text-align: center;
+}
+
+#baby {
+    background-color: #c4f1be;
+    text-align: center;
+}
+
+#reading {
+    background-color: #9ec7bf;
+    text-align: center;
+}
+.textAligain {
+    text-align: center;
+}
+.serviceTitle {
+    text-align: center;
+    margin: 20px;
+    font-weight: bolder;
 }
