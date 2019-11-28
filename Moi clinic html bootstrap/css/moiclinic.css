@@ -61,20 +61,26 @@
     background-color: #f69095;
     text-align: center;
 }
+
+
 #skypeTherapy {
     border: #f69095 solid;
     margin: 23px;
     text-align: -webkit-center;
+    background-color: #ffffff;
+    opacity: 50%;
 }
 #skypeTherapyImg {
     text-align: -webkit-center;
-    width: 84px;
-    height: 83px;
+    height: 80px;
+    width: 80px;
+    padding: 15px;
     background-color: #f69095;
 }
+
 .serviceImgSizing {
-    height: 54px;
-    width: 54px;
+    height: 50px;
+    width: 50px;
 }
 
 .serviceCardBody {
@@ -103,4 +109,35 @@
     text-align: center;
     margin: 20px;
     font-weight: bolder;
+}
+
+#mediCare {
+    border: #ccbaca solid;
+    margin: 23px;
+    text-align: -webkit-center;
+    background-color: #ffffff;
+    opacity: 50%;
+}
+#mediCareImg {
+    background-color: #ccbaca;
+    text-align: -webkit-center;
+    height: 80px;
+    width: 80px;
+    padding: 15px;
+}
+
+#nids {
+    border: #9ec7bf solid;
+    margin: 23px;
+    text-align: -webkit-center;
+    background-color: #ffffff;
+    opacity: 50%;
+}
+#nidsImg {
+    background-color: #9ec7bf;
+    text-align: -webkit-center;
+    height: 80px;
+    width: 80px;
+    padding: 15px;
+
 }
